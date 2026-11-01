@@ -192,3 +192,4 @@ verify the signature perform the following:
 ## License
 
 btcwallet is licensed under the liberal ISC License.
+
